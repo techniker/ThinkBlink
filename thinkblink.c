@@ -1,6 +1,7 @@
-# Copyright (c) 2010, Bjoern Heller <tec@hellercom.de>. All rights reserved
-# This code is licensed under GNU/ GPL
-
+/*
+Copyright (c) 2010, Bjoern Heller <tec@hellercom.de>. All rights reserved
+This code is licensed under GNU/ GPL
+*/
 #include <stdio.h>
 
 const char FILENAME[] = "/proc/acpi/ibm/light";
